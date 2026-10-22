@@ -25,4 +25,4 @@ class ModuleInfo extends React.Component {
 }
 export default ModuleInfo;
 
-// Ian Tan Zhao Sheng - 24021148
+// Ian Tan Zhao Sheng, 24021148
